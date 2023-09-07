@@ -21,6 +21,7 @@ npm start
 you see this route:
 
 <ul>
+    
     <li><strong>'/'</strong> for home page </li>
 
     <li> <strong>'/course-info/:courseName'</strong>for course info</li>
