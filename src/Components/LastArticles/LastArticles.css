@@ -1,0 +1,8 @@
+.articles {
+  margin: 4rem 0;
+}
+
+.article-card__img{
+  width: -webkit-fill-available;
+  height: 300px;
+}
